@@ -26,7 +26,7 @@ analyze budgets, get financial insights, and receive smart recommendations — a
 | **Backend** | Prisma ORM, Node.js |
 | **Database** | PostgreSQL / Supabase |
 | **Authentication** | Clerk / NextAuth |
-| **AI Integration** | OpenAI API | Gemini
+| **AI Integration** |  Gemini API |
 
 ---
 
