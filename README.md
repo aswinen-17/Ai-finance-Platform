@@ -9,7 +9,7 @@ analyze budgets, get financial insights, and receive smart recommendations — a
 ##  Features
 
 -  **Expense Tracking** – Automatically categorize and track income & expenses.  
--  **AI-Powered Insights** – Get smart recommendations on how to save and invest better.  
+-  **AI-Powered Insights** – Scan the receipts/bills with AI.  
 -  **Recurring Transactions** – Manage recurring bills, subscriptions, and salary inflows.  
 -  **Budget Alerts** – Receive gmail notifications when spending exceeds set limits.  
 -  **Secure Authentication** – User login using Clerk/Auth.js for safe and seamless access.  
